@@ -2,7 +2,7 @@
 	"input": [
 	  {
 		  "name": "prompt",
-		  "type" : "string",
+		  "type" : "str",
 		  "description" : "example",
 		  "default" : "best"
 	  }
