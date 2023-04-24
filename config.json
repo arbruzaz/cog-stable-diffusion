@@ -1,0 +1,16 @@
+{
+	"input": [
+	  {
+		  "name": "prompt",
+		  "type" : "string",
+		  "description" : "example",
+		  "default" : "best"
+	  }
+  ],
+	"output" : 
+	   {
+		  "name": "items",
+		  "type" : "string"
+	  }
+	
+  }
